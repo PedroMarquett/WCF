@@ -1,0 +1,17 @@
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\obj\Debug\ServicoHostWCF.csprojAssemblyReference.cache
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\obj\Debug\ServicoHostWCF.csproj.CoreCompileInputs.cache
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\bin\Debug\ServicoHostWCF.exe.config
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\bin\Debug\ServicoHostWCF.exe
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\bin\Debug\ServicoHostWCF.pdb
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\bin\Debug\AcessoDados.dll
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\bin\Debug\Entidade.dll
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\bin\Debug\Negocio.dll
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\bin\Debug\ProjExWCF.dll
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\bin\Debug\AcessoDados.pdb
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\bin\Debug\Entidade.pdb
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\bin\Debug\Negocio.pdb
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\bin\Debug\ProjExWCF.pdb
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\bin\Debug\ProjExWCF.dll.config
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\obj\Debug\ServicoHostWCF.csproj.CopyComplete
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\obj\Debug\ServicoHostWCF.exe
+C:\Users\brasi\source\repos\ProjExWCF\ServicoHostWCF\obj\Debug\ServicoHostWCF.pdb
